@@ -25,5 +25,3 @@ const loginValidate = (form) => {
 };
 
 export default loginValidate;
-
-
